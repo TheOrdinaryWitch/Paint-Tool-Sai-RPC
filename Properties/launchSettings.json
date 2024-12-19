@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Paint Tool Sai RPC": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DISCORD_CLIENT_ID": "1295261097816756296"
+      }
+    }
+  }
+}
