@@ -1,6 +1,6 @@
 # Paint Tool Sai RPC
 
-Easy to use Rich Presence for Paint Tool Sai.
+Easy to use Discord Rich Presence for Paint Tool Sai.
 
 ## Installation
 Download the zip file here: [Release 1.0](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/Release)
