@@ -7,6 +7,8 @@ Download the zip file here: [Release 1.0](https://github.com/TheOrdinaryWitch/Pa
 
 If you don't want people to see the name of the file you are working on download it here: [Release 1.0-NoFileName](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/Release-NoFileName)
 
+# Before installing, the .exe for SAI needs to be named sai.exe (It should work anyway but it's a precaution)
+
 1-Unzip the files in any folder, I recommend a folder inside program files that doesn't move alot.
 
 2-Execute the .exe file.
