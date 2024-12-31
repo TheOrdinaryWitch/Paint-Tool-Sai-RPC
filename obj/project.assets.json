@@ -389,9 +389,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\FuntionX\\Desktop\\FuntionX\\Paint Tool Sai RPC\\Paint Tool Sai RPC\\Paint Tool Sai RPC.csproj",
-      "projectName": "Paint Tool Sai RPC",
-      "projectPath": "F:\\Users\\FuntionX\\Desktop\\FuntionX\\Paint Tool Sai RPC\\Paint Tool Sai RPC\\Paint Tool Sai RPC.csproj",
+      "projectUniqueName": "F:\\Users\\FuntionX\\Desktop\\FuntionX\\Paint Tool Sai RPC\\Paint Tool Sai RPC\\Paint Tool Sai 2 RPC.csproj",
+      "projectName": "Paint Tool Sai 2 RPC",
+      "projectPath": "F:\\Users\\FuntionX\\Desktop\\FuntionX\\Paint Tool Sai RPC\\Paint Tool Sai RPC\\Paint Tool Sai 2 RPC.csproj",
       "packagesPath": "C:\\Users\\FuntionX\\.nuget\\packages\\",
       "outputPath": "F:\\Users\\FuntionX\\Desktop\\FuntionX\\Paint Tool Sai RPC\\Paint Tool Sai RPC\\obj\\",
       "projectStyle": "PackageReference",

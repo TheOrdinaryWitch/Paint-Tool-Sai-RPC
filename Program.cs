@@ -78,13 +78,11 @@ class Program
             previousFileName = currentFileName;
             client.SetPresence(new RichPresence()
             {
-                Details = currentFileName,
+                //Details = currentFileName,
                 Timestamps = Timestamps.Now,
                 Assets = new Assets()
                 {
-                    LargeImageKey = "large_image_key", // Must match an asset key uploaded to your Discord App
-                    LargeImageText = "Paint Tool Sai",
-                    SmallImageKey = "small_image_key"  // Optional, same as above
+                    LargeImageKey = "sailogo", // Must match an asset key uploaded to your Discord App
                 }
             });
         }
@@ -96,7 +94,7 @@ class Program
     }
     public static void AddToStartup()
     {
-        string appName = "Pain Tool Sai RPC";
+        string appName = "Pain Tool Sai 2 RPC";
         string appPath = Path.ChangeExtension(System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName, ".exe");
 
         RegistryKey rk = Registry.CurrentUser.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run", true);
@@ -111,10 +109,10 @@ class Program
             {
                 System.Text.StringBuilder windowTitle = new System.Text.StringBuilder(256); // Buffer for window title
                 _ = GetWindowText(hWnd, windowTitle, windowTitle.Capacity);
-
-                if (windowTitle.ToString() != "SAI")
+                if (windowTitle.ToString().Contains(" - "))
                 {
-                    string withoutPrefix = windowTitle.ToString().Replace("SAI - ", "");
+                    int index = windowTitle.ToString().LastIndexOf(" - ");
+                    string withoutPrefix = windowTitle.ToString().Substring(index + 3);
                     string fileName = Path.GetFileName(withoutPrefix);
                     return "Editing: "+ fileName;
                 }
@@ -127,7 +125,7 @@ class Program
     }
     private static int GetPid()
     {
-        Process[] processes = Process.GetProcessesByName("sai");
+        Process[] processes = Process.GetProcessesByName("sai2");
         if (processes.Length > 0)
         {
             for (int i = 0; i < processes.Length; i++)
