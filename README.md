@@ -5,7 +5,11 @@ Easy to use Discord Rich Presence for Paint Tool Sai v2.
 ## Installation
 Download the zip file here: [Release 1.0](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/ReleaseSAI2)
 
+![Example1](https://i.imgur.com/nViy9im.png)
+
 If you don't want people to see the name of the file you are working on download it here: [Release 1.0-NoFileName](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/ReleaseSAI2-NoFileName)
+
+![Example2](https://i.imgur.com/oWnKyAz.png)
 
 1-Unzip the files in any folder, I recommend a folder inside program files that doesn't move alot.
 
