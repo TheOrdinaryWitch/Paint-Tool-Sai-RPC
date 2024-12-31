@@ -78,7 +78,7 @@ class Program
             previousFileName = currentFileName;
             client.SetPresence(new RichPresence()
             {
-                Details = currentFileName,
+                //Details = currentFileName,
                 Timestamps = Timestamps.Now,
                 Assets = new Assets()
                 {
