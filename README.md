@@ -1,11 +1,11 @@
-# Paint Tool Sai RPC
+# Paint Tool Sai v2 RPC
 
-Easy to use Discord Rich Presence for Paint Tool Sai.
+Easy to use Discord Rich Presence for Paint Tool Sai v2.
 
 ## Installation
-Download the zip file here: [Release 1.0](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/Release)
+Download the zip file here: [Release 1.0](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/ReleaseSAI2)
 
-If you don't want people to see the name of the file you are working on download it here: [Release 1.0-NoFileName](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/Release-NoFileName)
+If you don't want people to see the name of the file you are working on download it here: [Release 1.0-NoFileName](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/releases/tag/ReleaseSAI2-NoFileName)
 
 1-Unzip the files in any folder, I recommend a folder inside program files that doesn't move alot.
 
@@ -16,7 +16,7 @@ That's it!
 ## Uninstall
 If you want to uninstall:
 
-1- Go to the task manager and find the "Paint Tool Sai RPC" process and stop it.
+1- Go to the task manager and find the "Paint Tool Sai 2 RPC" process and stop it.
 
 2- Remove the folder with the files.
 
