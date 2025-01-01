@@ -1,5 +1,7 @@
 # Paint Tool Sai RPC
 
+## CLICK [HERE](https://github.com/TheOrdinaryWitch/Paint-Tool-Sai-RPC/tree/sai2) FOR SAI 2 VERSION
+
 Easy to use Discord Rich Presence for Paint Tool Sai.
 
 ## Installation
